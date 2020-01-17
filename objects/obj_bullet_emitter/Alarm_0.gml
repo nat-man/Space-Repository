@@ -3,4 +3,4 @@
 
 instance_create_layer(x,y,"Instances",obj_bullet_1);
 
-alarm[0] = 32;
+alarm[0] = random_range(32,92);
