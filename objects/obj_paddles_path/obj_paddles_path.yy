@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "b5821183-9f58-4684-8095-2f1e9a308df0"
+        },
+        {
+            "id": "2aa1cc6f-0138-4454-9a69-ce1e434b397e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "268c61e2-4110-4a4f-bb6d-c4f4cd9dd801",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b5821183-9f58-4684-8095-2f1e9a308df0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -69,6 +79,20 @@
             "value": "0",
             "varName": "st_pos",
             "varType": 0
+        },
+        {
+            "id": "f775f8b6-16cf-4d7f-a384-1fd7541fdc98",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "health",
+            "varType": 1
         }
     ],
     "solid": true,
