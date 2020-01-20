@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_planets",
     "eventList": [
-        
+        {
+            "id": "9ce52fe7-cb42-475d-b079-0a1ba40a3b78",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "9037307a-8cfb-4768-bb07-da2f329793e6",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1de71e49-bfbf-4796-9055-4c58a70e2318"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "health",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
