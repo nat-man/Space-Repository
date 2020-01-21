@@ -1,28 +1,28 @@
 {
-    "id": "1de71e49-bfbf-4796-9055-4c58a70e2318",
+    "id": "db6ab3a0-ae3f-4d6a-a42a-37bebf1a9506",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_planets",
+    "name": "obj_alien",
     "eventList": [
         {
-            "id": "9ce52fe7-cb42-475d-b079-0a1ba40a3b78",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "9037307a-8cfb-4768-bb07-da2f329793e6",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "1de71e49-bfbf-4796-9055-4c58a70e2318"
-        },
-        {
-            "id": "316fbd67-930e-4ee4-9975-bc2a2738e706",
+            "id": "42ff1596-e0b0-4be6-b81a-003d58a28026",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "1de71e49-bfbf-4796-9055-4c58a70e2318"
+            "eventtype": 3,
+            "m_owner": "db6ab3a0-ae3f-4d6a-a42a-37bebf1a9506"
+        },
+        {
+            "id": "b565ab11-1124-4b60-8c90-6d7ebd943756",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "db6ab3a0-ae3f-4d6a-a42a-37bebf1a9506"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,23 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "4",
-            "varName": "health",
-            "varType": 1
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "2bbfd85f-155d-4dc8-8408-9a594e0d750e",
     "visible": true
 }

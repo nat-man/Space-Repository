@@ -2,6 +2,7 @@
 
 if (hit == false) {
 	health -= obj_bullets.damage;
+	audio_play_sound(snd_paddle_hit,1,false);
 	hit = true;
 }
 

@@ -3,4 +3,8 @@
 
 draw_set_font(fnt_0);
 draw_set_halign(fa_center);
-draw_text(80,20, score);
+draw_text(24,16, score);
+
+if (space_pressed = false) {
+	draw_text(144,54, "PRESS SPACE");	
+}
