@@ -1,8 +1,12 @@
 /// collision with a bullet
 
-health -= obj_bullets.damage;
+if (hit == false) {
+	health -= obj_bullets.damage;
+	hit = true;
+}
 
 if health < 0 {
+	audio_play_sound(snd_paddle_explosion,1,false);
 	instance_destroy(self);
 }
 

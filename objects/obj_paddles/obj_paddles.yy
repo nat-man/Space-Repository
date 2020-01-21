@@ -103,6 +103,20 @@
             "value": "3",
             "varName": "health",
             "varType": 1
+        },
+        {
+            "id": "1178d4f8-0820-4284-8d71-12c5a6b41e8a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hit",
+            "varType": 3
         }
     ],
     "solid": true,
