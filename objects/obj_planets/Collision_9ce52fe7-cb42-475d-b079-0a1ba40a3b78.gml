@@ -1,8 +1,14 @@
 
-health -= 1;
-image_alpha = .5;
-alarm[0] = 24;
-if (health < 0) {
+if (hit == false) {
+	hit = true;
+	health -= 1;
+	show_debug_message("hit");
+	image_alpha = .5;
+	alarm[0] = 32;
+}
+
+if (health < -5) {
+	show_debug_message("ded");
 	audio_play_sound(snd_planet_explosion,1,false);
 	alarm[1] = 32;
 }

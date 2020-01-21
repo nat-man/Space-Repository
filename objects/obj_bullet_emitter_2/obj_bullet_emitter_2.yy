@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_bullet_emitter_2",
     "eventList": [
-        
+        {
+            "id": "67ec8f3d-30cd-4d3b-8496-0a8e8c3fe146",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "61dc803f-93dc-424b-bd10-be5d3d9119aa"
+        },
+        {
+            "id": "39e65010-7d52-4226-b736-5585bfa283ec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "61dc803f-93dc-424b-bd10-be5d3d9119aa"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
