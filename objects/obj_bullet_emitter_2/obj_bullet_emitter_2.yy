@@ -1,23 +1,23 @@
 {
-    "id": "0030c9ac-a0f8-4807-b84c-7cc0eb9811e3",
+    "id": "61dc803f-93dc-424b-bd10-be5d3d9119aa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_planet_1",
+    "name": "obj_bullet_emitter_2",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "b3145bd8-fb96-407b-88f2-ee0758e8fac9",
+            "id": "3709262e-3c8f-4261-9b4f-c7f1ab95e9ef",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
-            "objectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
-            "propertyId": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
-            "value": "4"
+            "objectId": "97ad89fe-f891-4e41-a422-7b73add4d4d0",
+            "propertyId": "6ee61ffd-b038-4f31-9184-13f5ac522da8",
+            "value": "64"
         }
     ],
-    "parentObjectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
+    "parentObjectId": "97ad89fe-f891-4e41-a422-7b73add4d4d0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "c5e41645-cde7-414a-a46f-f894f81b90c7",
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

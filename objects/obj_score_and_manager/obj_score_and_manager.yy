@@ -85,6 +85,48 @@
             "value": "0",
             "varName": "space_pressed",
             "varType": 3
+        },
+        {
+            "id": "b276adc2-08f3-41d1-a011-9ceddb72a3b0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "p_1_de",
+            "varType": 3
+        },
+        {
+            "id": "cbce43a3-8c8f-4a44-af76-a34c897b9d6b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "p_2_de",
+            "varType": 3
+        },
+        {
+            "id": "4500ba44-6fe0-4f01-8c7f-c2a5c7544891",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "p_3_de",
+            "varType": 3
         }
     ],
     "solid": false,

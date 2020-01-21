@@ -1,22 +1,13 @@
 {
-    "id": "0030c9ac-a0f8-4807-b84c-7cc0eb9811e3",
+    "id": "b6002113-73b5-4a3b-8b9d-26a40c2b239a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_planet_1",
+    "name": "obj_planet_11",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": [
-        {
-            "id": "b3145bd8-fb96-407b-88f2-ee0758e8fac9",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
-            "propertyId": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
-            "value": "4"
-        }
-    ],
+    "overriddenProperties": null,
     "parentObjectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
     "persistent": false,
     "physicsAngularDamping": 0.1,
