@@ -117,6 +117,34 @@
             "value": "0",
             "varName": "hit",
             "varType": 3
+        },
+        {
+            "id": "e86f3762-382a-403a-9f1d-0e43c7981b17",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "u_v",
+            "varType": 3
+        },
+        {
+            "id": "795778c0-53ce-407f-9bcc-b1b8c99e8694",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "u_v",
+            "varName": "destroyed",
+            "varType": 4
         }
     ],
     "solid": true,

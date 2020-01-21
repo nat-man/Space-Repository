@@ -2,8 +2,7 @@
 // You can write your code in this editor
 draw_set_font(fnt_1);
 draw_set_halign(fa_center);
-draw_text(144,100, "WINNER");
+draw_text(144,100, "LOSER");
 
 draw_set_font(fnt_2);
-draw_text(144,144, "GALACTIC DOMINATION ACHIEVED \n PRESS ENTER TO RESTART \n \n FINAL SCORE:" + string(score));
-
+draw_text(144,144, "KAREN TOOK THE KIDS \n PRESS ENTER TO RESTART");

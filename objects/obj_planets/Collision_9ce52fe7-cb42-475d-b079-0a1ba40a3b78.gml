@@ -4,5 +4,5 @@ image_alpha = .5;
 alarm[0] = 24;
 if (health < 0) {
 	audio_play_sound(snd_planet_explosion,1,false);
-	alarm[1] = 100;
+	alarm[1] = 32;
 }

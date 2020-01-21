@@ -7,5 +7,5 @@ draw_text(24,16, score);
 
 if (space_pressed = false) {
 	draw_set_font(fnt_2);
-	draw_text(144,72, "PRESS SPACE");	
+	draw_text(144,60, "PRESS SPACE");	
 }
