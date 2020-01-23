@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_planet_2",
     "eventList": [
-        
+        {
+            "id": "1ce0fff5-1db3-40a2-86fd-56315e054a6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "9037307a-8cfb-4768-bb07-da2f329793e6",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b6002113-73b5-4a3b-8b9d-26a40c2b239a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -31,7 +40,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "00054b6d-ed75-45a6-9b9d-e7205fc7891b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "rand",
+            "varType": 0
+        }
+    ],
     "solid": true,
     "spriteId": "532235ce-6235-4741-bc8a-d5616068f946",
     "visible": true

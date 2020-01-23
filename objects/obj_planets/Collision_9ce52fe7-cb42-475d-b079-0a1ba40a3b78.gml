@@ -10,5 +10,6 @@ if (hit == false) {
 if (health < -5) {
 	show_debug_message("ded");
 	audio_play_sound(snd_planet_explosion,1,false);
+	instance_create_layer(x,y,"Instances",obj_explosion_large);
 	alarm[1] = 32;
 }

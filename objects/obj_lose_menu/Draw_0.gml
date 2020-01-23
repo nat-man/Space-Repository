@@ -5,4 +5,4 @@ draw_set_halign(fa_center);
 draw_text(144,100, "LOSER");
 
 draw_set_font(fnt_2);
-draw_text(144,144, "KAREN TOOK THE KIDS \n PRESS ENTER TO RESTART");
+draw_text(144,144, "KAREN-31Z TOOK THE EGGS \n PRESS ENTER TO RESTART");

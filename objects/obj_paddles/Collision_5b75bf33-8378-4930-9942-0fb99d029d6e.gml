@@ -7,7 +7,9 @@ if (hit == false) {
 
 if health < 0 {
 	audio_play_sound(snd_paddle_explosion,1,false);
-	destroyed = true;
+	instance_create_layer(x,y,"Instances",obj_explosion);
+	//show_debug_message()
+	obj_score_and_manager.paddle_health -= 1;
 	instance_destroy(self);
 }
 
