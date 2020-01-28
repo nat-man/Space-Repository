@@ -53,20 +53,6 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "8",
-            "varName": "health",
-            "varType": 1
-        },
-        {
             "id": "75a63424-6153-48da-bcfc-7b4f2092f9ab",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -79,6 +65,20 @@
             "value": "0",
             "varName": "hit",
             "varType": 3
+        },
+        {
+            "id": "3a747255-5046-4a41-b4d2-9df12ce7b450",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "8",
+            "varName": "current_health",
+            "varType": 0
         }
     ],
     "solid": false,

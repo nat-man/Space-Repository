@@ -1,7 +1,7 @@
 /// collision with a bullet
 
 if (hit == false) {
-	health -= obj_bullets.damage;
+	health -= 1;
 	audio_play_sound(snd_paddle_hit,1,false);
 	hit = true;
 }

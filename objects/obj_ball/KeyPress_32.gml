@@ -2,7 +2,9 @@
 // You can write your code in this editor
 
 if (space_pressed == false) {
-	vspeed = random_range(-1,1);
-	hspeed = random_range(-1,1);
+	vspeed = random_range(-.5,-1);
+	old_vsp = vspeed;
+	hspeed = random_range(-.5,-1);
+	old_hsp = hspeed;
 	space_pressed = true;
 }

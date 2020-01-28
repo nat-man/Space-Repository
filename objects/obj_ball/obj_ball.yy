@@ -63,6 +63,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "9037307a-8cfb-4768-bb07-da2f329793e6"
+        },
+        {
+            "id": "25a303a0-4ad6-44b8-a408-89b9302c5183",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9037307a-8cfb-4768-bb07-da2f329793e6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -179,6 +189,34 @@
             "value": "0",
             "varName": "y_check",
             "varType": 0
+        },
+        {
+            "id": "ef60120b-457b-4b96-9950-d5f537943338",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hbnc",
+            "varType": 3
+        },
+        {
+            "id": "ed4d3ccd-165e-4081-8e09-2395bb29d2a3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "vbnc",
+            "varType": 3
         }
     ],
     "solid": false,

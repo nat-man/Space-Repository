@@ -18,12 +18,12 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "b5abfa5b-dc72-4e89-b0c7-7f6eaa582cf2",
+            "id": "dd200303-8463-4a1c-b92d-8b1cce29ac7e",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
-            "propertyId": "60e26861-0f4a-4dd5-8883-b6b3cb799d37",
-            "value": "16"
+            "propertyId": "3a747255-5046-4a41-b4d2-9df12ce7b450",
+            "value": "10"
         }
     ],
     "parentObjectId": "1de71e49-bfbf-4796-9055-4c58a70e2318",
