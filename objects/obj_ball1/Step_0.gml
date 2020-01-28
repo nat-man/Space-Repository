@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//show_debug_message(string(x) + string(x_check));
-//show_debug_message(string(y) + string(y_check));
+show_debug_message(string(x) + string(x_check));
+show_debug_message(string(y) + string(y_check));
 
 /*
 if (x_check == x) && (space_pressed == true){
@@ -40,6 +40,3 @@ y_check = y;
 //show_debug_message(string(x));
 //show_debug_message(string(y));
 }*/
-
-show_debug_message(string(hspeed));
-show_debug_message(string(vspeed));

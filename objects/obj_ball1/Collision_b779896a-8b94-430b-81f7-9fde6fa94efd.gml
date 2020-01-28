@@ -1,3 +1,14 @@
+//bounce off planets
+
+x_check = x;
+y_check = y;
+
+if (hspeed != 0) {
+	old_hsp = hspeed;
+}
+if (vspeed != 0)  {
+	old_vsp = vspeed;
+}
 
 if (bnc = false){
 	move_bounce_solid(true);
@@ -8,5 +19,5 @@ if (bnc = false){
 	score += 1;
 	x_check = x;
 	y_check = y;
-	alarm[0] = 1;
+	alarm[0] = 4;
 }
