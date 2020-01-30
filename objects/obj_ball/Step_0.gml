@@ -41,5 +41,10 @@ y_check = y;
 //show_debug_message(string(y));
 }*/
 
-show_debug_message(string(hspeed));
-show_debug_message(string(vspeed));
+//show_debug_message(string(hspeed));
+//show_debug_message(string(vspeed));
+
+if (global.stopped == true) {
+	hspeed = 0;
+	vspeed = 0;
+}

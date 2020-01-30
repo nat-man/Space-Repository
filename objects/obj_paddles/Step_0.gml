@@ -9,8 +9,10 @@ if keyboard_check(vk_right){ //and !place_meeting(x+sp+move,y,obj_wall){
 	sp -=2;	
 }
 
-
+if (global.stopped == false){
 path_speed = sp;
+}
+else {path_speed = 0;}
 //path_position += move;
 sp = 0;
 

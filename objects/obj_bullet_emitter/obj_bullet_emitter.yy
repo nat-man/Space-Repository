@@ -52,7 +52,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "32",
+            "value": "64",
             "varName": "range_x",
             "varType": 0
         },
@@ -66,7 +66,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "92",
+            "value": "128",
             "varName": "range_y",
             "varType": 0
         }

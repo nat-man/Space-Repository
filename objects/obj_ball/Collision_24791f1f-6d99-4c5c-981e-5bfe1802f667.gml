@@ -1,4 +1,4 @@
-if (bnc = false){
+if (bnc = false) && (global.stopped == false){
 	/*
 	if(keyboard_check_pressed(vk_right) == true) {
 			
@@ -14,5 +14,5 @@ if (bnc = false){
 	y_check = y;
 	alarm[0] = 4;
 	obj_paddles.mask_index = spr_empty;
-	alarm[1] = 4;
+	alarm[1] = 2;
 }
